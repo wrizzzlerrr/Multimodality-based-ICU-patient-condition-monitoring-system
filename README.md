@@ -1,4 +1,4 @@
-<p align="center"><b>PatientTM - Patient Trajectory Modelling</b></p>
+<p align="center"><b>Multimodality-based ICU patient condition monitoring system</b></p>
 
 A solution for modelling patient trajectories, according to different clinical outcomes, using multimodal clinical information including clinical notes and coding data.
 
